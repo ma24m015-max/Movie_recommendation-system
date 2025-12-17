@@ -39,5 +39,4 @@ You can extend this project to build recommendation logic using content-based fi
 
 ---
 
-## 📁 Project Structure
 
